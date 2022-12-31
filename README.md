@@ -1,4 +1,4 @@
-- 👋 Hello Readers I’m Aniket
+- 👋 Hello Readers I’m Aniket Bose
 - 👀 I’m interested currently in web developement
 - 🌱 I’m currently learning React and Node js in backend and  had learnt DSA and a bit of ML
 - 💞️ I’m looking to collaborate on future projects
